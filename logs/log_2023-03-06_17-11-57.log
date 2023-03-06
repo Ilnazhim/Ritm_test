@@ -1,0 +1,33 @@
+
+-----
+Test: test_ritm.py::test_ritm_task (call)
+Start time: 2023-03-06 17:12:02.483893
+Start name method: go_to_elements_page
+
+End time: 2023-03-06 17:12:02.706006
+End name method: go_to_elements_page
+URL: https://demoqa.com/elements
+
+-----
+
+-----
+Test: test_ritm.py::test_ritm_task (call)
+Start time: 2023-03-06 17:12:02.708003
+Start name method: go_to_checkbox_page
+
+End time: 2023-03-06 17:12:03.193007
+End name method: go_to_checkbox_page
+URL: https://demoqa.com/checkbox
+
+-----
+
+-----
+Test: test_ritm.py::test_ritm_task (call)
+Start time: 2023-03-06 17:12:03.195004
+Start name method: choose_word_file
+
+End time: 2023-03-06 17:12:03.741592
+End name method: choose_word_file
+URL: https://demoqa.com/checkbox
+
+-----

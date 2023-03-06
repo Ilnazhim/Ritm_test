@@ -1,0 +1,20 @@
+
+start browser for test..
+
+Go to elements page
+Start logs
+Click elements_card
+End logs
+
+Go to checkbox page
+Start logs
+Click menu_checkbox
+End logs
+Start logs
+Click home_dir
+Click downloads_dir
+Choose word_file
+End logs
+Test ritm task
+
+quit browser..
