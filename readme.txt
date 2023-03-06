@@ -12,7 +12,7 @@ py -m venv venv
 
 Активируем его
 
-source venv\Scripts\activate.bat
+venv\Scripts\activate.bat
 
 Устанавливаем зависимости
 
